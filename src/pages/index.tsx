@@ -1,15 +1,17 @@
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import Heading from "@theme/Heading";
+
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import PageFixed from "@site/src/components/PageFixed/index";
+import Description from "@site/src/components/Description/index";
 
 import styles from "./index.module.css";
 
 import type { ReactNode } from "react";
 
-export default function Home(): ReactNode {
+export default function(): ReactNode {
     const { siteConfig } = useDocusaurusContext();
     return (
         <Layout
@@ -29,7 +31,8 @@ export default function Home(): ReactNode {
                 </div>
             </header>
             <main>
-                <HomepageFeatures />
+                <PageFixed />
+                <Description />
             </main>
         </Layout>
     );
