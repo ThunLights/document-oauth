@@ -14,5 +14,37 @@
   "sidebar.tutorialSidebar.category.Tutorial - Extras": {
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.初心者向け": {
+    "message": "初心者向け",
+    "description": "The label for category 初心者向け in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.初心者向け.link.generated-index.description": {
+    "message": "各エンドポイントについて簡潔にまとめました。",
+    "description": "The generated-index page description for category 初心者向け in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.環境構築": {
+    "message": "環境構築",
+    "description": "The label for category 環境構築 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.環境構築.link.generated-index.description": {
+    "message": "本ドキュメントの推奨環境構築について導入方法等を解説します。",
+    "description": "The generated-index page description for category 環境構築 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.初心者用チュートリアル": {
+    "message": "初心者用チュートリアル",
+    "description": "The label for category 初心者用チュートリアル in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.初心者用チュートリアル.link.generated-index.description": {
+    "message": "本ドキュメントの推奨環境構築について導入方法等を解説します。",
+    "description": "The generated-index page description for category 初心者用チュートリアル in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.エンドポイント一覧": {
+    "message": "エンドポイント一覧",
+    "description": "The label for category エンドポイント一覧 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.エンドポイント一覧.link.generated-index.description": {
+    "message": "各エンドポイントについて簡潔にまとめました。",
+    "description": "The generated-index page description for category エンドポイント一覧 in sidebar tutorialSidebar"
   }
 }
