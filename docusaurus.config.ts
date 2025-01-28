@@ -29,7 +29,7 @@ const config: Config = {
 			{
 				docs: {
 					sidebarPath: "./sidebars.ts",
-					editUrl: "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+					editUrl: "https://github.com/ThunLights/document-oauth",
 				},
 				blog: {
 					showReadingTime: true,
@@ -37,7 +37,7 @@ const config: Config = {
 						type: ["rss", "atom"],
 						xslt: true,
 					},
-					editUrl: "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+					editUrl: "https://github.com/ThunLights/document-oauth",
 					onInlineTags: "warn",
 					onInlineAuthors: "warn",
 					onUntruncatedBlogPosts: "warn",
