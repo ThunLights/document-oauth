@@ -29,7 +29,7 @@ const config: Config = {
 			{
 				docs: {
 					sidebarPath: "./sidebars.ts",
-					editUrl: "https://github.com/ThunLights/document-oauth",
+					editUrl: "https://github.com/ThunLights/document-oauth/tree/main",
 				},
 				blog: {
 					showReadingTime: true,
@@ -37,7 +37,7 @@ const config: Config = {
 						type: ["rss", "atom"],
 						xslt: true,
 					},
-					editUrl: "https://github.com/ThunLights/document-oauth",
+					editUrl: "https://github.com/ThunLights/document-oauth/tree/main",
 					onInlineTags: "warn",
 					onInlineAuthors: "warn",
 					onUntruncatedBlogPosts: "warn",
@@ -62,7 +62,7 @@ const config: Config = {
 					type: "docSidebar",
 					sidebarId: "tutorialSidebar",
 					position: "left",
-					label: "Tutorial",
+					label: "Docs",
 				},
 				{ to: "/blog", label: "Blog", position: "left" },
 //                {
