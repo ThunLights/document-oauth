@@ -15,7 +15,7 @@ export default function(): ReactNode {
     const { siteConfig } = useDocusaurusContext();
     return (
         <Layout
-            title={`Home / ${siteConfig.title}`}
+            title="Home"
             description={siteConfig.tagline}>
             <header className={clsx("hero hero--primary", styles.heroBanner)}>
                 <div className="container">
